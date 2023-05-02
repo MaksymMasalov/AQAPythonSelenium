@@ -38,3 +38,5 @@ class ModalDialogsPageLocators:
     LARGE_MODAL_BUTTON = (By.CSS_SELECTOR, "button[id='showLargeModal']")
     BODY_LARGE_MODAL = (By.CSS_SELECTOR, "div[class='modal-body'] p")
     TITLE_LARGE_MODAL = (By.CSS_SELECTOR, "div[id='example-modal-sizes-title-lg']")
+
+#some change
